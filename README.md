@@ -28,10 +28,6 @@ yarn
 yarn start
 ```
 
-You can also get a [live demo on Code Sandbox][code-demo].
-
-[![Edit l29rokm9rm](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/l29rokm9rm?hidenavigation=1&view=preview)
-
 
 [react-docs]: https://reactjs.org/docs/
 [react]: https://reactjs.org/
